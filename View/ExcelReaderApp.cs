@@ -51,6 +51,7 @@ namespace ExcelReader
 
         private void PopulateGrid()
         {
+           label1.Text = "";
            Data.ColumnName.Clear();
            Data.ComponentMap.Clear();
 
