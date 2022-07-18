@@ -1,0 +1,56 @@
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.csproj.AssemblyReference.cache
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.csproj.SuggestedBindingRedirects.cache
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Excel_Reader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Excel_Reader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Excel_Reader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Excel_Reader\ExcelReader\bin\Debug\CsvHelper.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Buffers.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Memory.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Numerics.Vectors.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Excel_Reader\ExcelReader\bin\Debug\CsvHelper.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Buffers.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Memory.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Numerics.Vectors.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Excel_Reader\ExcelReader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.csproj.CopyComplete
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.pdb
+C:\Excel_Reader\ExcelReader\obj\Debug\ExcelReader.ExcelReaderApp.resources
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\ExcelReader.exe.config
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\ExcelReader.exe
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\ExcelReader.pdb
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\CsvHelper.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Buffers.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Memory.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Numerics.Vectors.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\CsvHelper.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Buffers.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Memory.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Numerics.Vectors.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Excel_Reader\ExcelReader - WORKINg\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.csproj.AssemblyReference.cache
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.csproj.SuggestedBindingRedirects.cache
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.ExcelReaderApp.resources
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.csproj.CopyComplete
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.exe
+C:\Excel_Reader\ExcelReader - WORKINg\obj\Debug\ExcelReader.pdb
